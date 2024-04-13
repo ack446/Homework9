@@ -39,7 +39,7 @@ Localhost : [http://localhost/docs](http://localhost/docs)
 Localhost : [http://localhost/docs](http://localhost/docs)
 
 
-8.  Screenshot of deleting QR Codes using the QR Code Manager on localhost.
+7.  Screenshot of deleting QR Codes using the QR Code Manager on localhost.
 ![alt text](screenshot/08.png)
 
 Localhost : [http://localhost/docs](http://localhost/docs)
